@@ -1,0 +1,32 @@
+C:\Users\C3 E6\Desktop\juego_parejas_barron\juego_parejas_barron\bin\Debug\juego_parejas_barron.exe.config
+C:\Users\C3 E6\Desktop\juego_parejas_barron\juego_parejas_barron\bin\Debug\juego_parejas_barron.exe
+C:\Users\C3 E6\Desktop\juego_parejas_barron\juego_parejas_barron\bin\Debug\juego_parejas_barron.pdb
+C:\Users\C3 E6\Desktop\juego_parejas_barron\juego_parejas_barron\obj\Debug\juego_parejas_barron.csproj.AssemblyReference.cache
+C:\Users\C3 E6\Desktop\juego_parejas_barron\juego_parejas_barron\obj\Debug\juego_parejas_barron.Form1.resources
+C:\Users\C3 E6\Desktop\juego_parejas_barron\juego_parejas_barron\obj\Debug\juego_parejas_barron.Properties.Resources.resources
+C:\Users\C3 E6\Desktop\juego_parejas_barron\juego_parejas_barron\obj\Debug\juego_parejas_barron.csproj.GenerateResource.cache
+C:\Users\C3 E6\Desktop\juego_parejas_barron\juego_parejas_barron\obj\Debug\juego_parejas_barron.csproj.CoreCompileInputs.cache
+C:\Users\C3 E6\Desktop\juego_parejas_barron\juego_parejas_barron\obj\Debug\juego_parejas_barron.exe
+C:\Users\C3 E6\Desktop\juego_parejas_barron\juego_parejas_barron\obj\Debug\juego_parejas_barron.pdb
+D:\juego_parejas_barron\juego_parejas_barron\bin\Debug\juego_parejas_barron.exe.config
+D:\juego_parejas_barron\juego_parejas_barron\bin\Debug\juego_parejas_barron.exe
+D:\juego_parejas_barron\juego_parejas_barron\bin\Debug\juego_parejas_barron.pdb
+D:\juego_parejas_barron\juego_parejas_barron\obj\Debug\juego_parejas_barron.csproj.AssemblyReference.cache
+D:\juego_parejas_barron\juego_parejas_barron\obj\Debug\juego_parejas_barron.Form1.resources
+D:\juego_parejas_barron\juego_parejas_barron\obj\Debug\juego_parejas_barron.Properties.Resources.resources
+D:\juego_parejas_barron\juego_parejas_barron\obj\Debug\juego_parejas_barron.csproj.GenerateResource.cache
+D:\juego_parejas_barron\juego_parejas_barron\obj\Debug\juego_parejas_barron.csproj.CoreCompileInputs.cache
+D:\juego_parejas_barron\juego_parejas_barron\obj\Debug\juego_parejas_barron.exe
+D:\juego_parejas_barron\juego_parejas_barron\obj\Debug\juego_parejas_barron.pdb
+F:\juego_parejas_barron\juego_parejas_barron\bin\Debug\juego_parejas_barron.exe.config
+F:\juego_parejas_barron\juego_parejas_barron\bin\Debug\juego_parejas_barron.exe
+F:\juego_parejas_barron\juego_parejas_barron\bin\Debug\juego_parejas_barron.pdb
+F:\juego_parejas_barron\juego_parejas_barron\obj\Debug\juego_parejas_barron.csproj.AssemblyReference.cache
+F:\juego_parejas_barron\juego_parejas_barron\obj\Debug\juego_parejas_barron.Form1.resources
+F:\juego_parejas_barron\juego_parejas_barron\obj\Debug\juego_parejas_barron.Properties.Resources.resources
+F:\juego_parejas_barron\juego_parejas_barron\obj\Debug\juego_parejas_barron.csproj.GenerateResource.cache
+F:\juego_parejas_barron\juego_parejas_barron\obj\Debug\juego_parejas_barron.csproj.CoreCompileInputs.cache
+F:\juego_parejas_barron\juego_parejas_barron\obj\Debug\juego_parejas_barron.exe
+F:\juego_parejas_barron\juego_parejas_barron\obj\Debug\juego_parejas_barron.pdb
+F:\juego_parejas_barron\juego_parejas_barron\obj\Debug\juego_parejas_barron.Resources.Niveles.FormNivel2.resources
+F:\juego_parejas_barron\juego_parejas_barron\obj\Debug\juego_parejas_barron.Resources.Niveles.FormAyuda.resources
